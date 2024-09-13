@@ -7,6 +7,6 @@ Bu zkitapların çalışması için küçük bir uygulama. Bu uygumanın çalı�
 3. Çalıştırmak istediğiniz zkitabı indirin ve zkitap.exe olarak adını değiştiriniz
 4. Aşağıdaki resimde görüldüğü gibi üç farklı yayın evinin zkitabı için ayarlamalar yapıldı.
 5. **zkitap** uygulamasını çalıştırınız.
-
+<img src="2.png"/>
 
 
