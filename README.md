@@ -3,6 +3,8 @@ Bu zkitapların çalışması için küçük bir uygulama. Bu uygumanın çalı�
 
 1. Buradaki uygumalayı indirin
 
+<img src="0.png"/>
+
 2. İndirdiğiniz dosyayı resimde görüldüğü gibi izinlerini değişitirin.
 
 <img src="1.png"/>
