@@ -1,4 +1,5 @@
-# moremore
+# zkitap Siyah Ekran
+
 Bu zkitapların çalışması için küçük bir uygulama. Bu uygumanın çalışması için wine kurulu ve windows için hazırlanan z kitabı indirilmiş olması lazım.
 
 1. Buradaki uygumalayı indirin
